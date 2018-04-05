@@ -7,7 +7,7 @@ Introduction:
      
   2. This code is licensed under the Simplified BSD License.
   
-  3. Insrallation by the Matlab path:
+  3. Installation by the Matlab path:
      >> addpath(genpath('path/to/toolbox/')); savepath;
      run the compile script for the mex files: 
      >> toolboxCompile;
