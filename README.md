@@ -4,7 +4,7 @@ Documentation: https://pdollar.github.io/toolbox/
 
 Introduction:
 
-  This toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed. Emphasis has been placed on code efficiency and code reuse.
+      This toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed. Emphasis has been placed on code efficiency and code reuse.
 
 description:
   1. The toolbox is divided into 7 parts, arranged by directory:
